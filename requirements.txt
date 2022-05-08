@@ -1,0 +1,12 @@
+sys
+bs4~=0.0.1
+locale
+os
+PyQt5~=5.15.6
+psycopg2~=2.9.3
+datetime~=4.4
+pdfkit~=1.0.0
+
+SQLAlchemy~=1.4.32
+Werkzeug~=2.0.3
+beautifulsoup4~=4.10.0
