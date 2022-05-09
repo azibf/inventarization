@@ -1,0 +1,5 @@
+CC>
+  <qresource prefix="iu10_logo">
+    <file>pictures/iu10_logo.svg</file>
+  </qresource>
+</RCC>
